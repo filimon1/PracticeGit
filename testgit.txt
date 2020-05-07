@@ -1,0 +1,10 @@
+1. I created a folder using the mkdir
+2. I view all the file list under that folder using the ls
+3. I wanted to create a new file i used cd filename
+4. I want to enter info in that file I used cat >filename
+5. Now I am inside the file and can add information 
+6. If I want to exit I use CTRL + D 
+7. If I want to get back to this file and make change again I use the 
+   vim filename
+8. If I want to exit from this i will use :wq
+9. 

@@ -1,0 +1,6 @@
+1. I created folder using mkdir
+2. I navigated to the folder created from step 1 using cd foldername
+3. I started git using git init
+4. created a file using cat > test.txt and made changes or add info
+5  To exit I used ctrl + D
+6. or sometimes :wq
