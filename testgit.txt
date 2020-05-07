@@ -7,4 +7,11 @@
 7. If I want to get back to this file and make change again I use the 
    vim filename
 8. If I want to exit from this i will use :wq
-9. 
+
+
+1. This is a new change, I have created a remote repository in github and 
+   push my local file to the remote git repository 
+2.  Now I have opened this file, which is on my local and add this 2 lines
+
+
+
